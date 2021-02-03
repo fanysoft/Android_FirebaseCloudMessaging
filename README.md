@@ -18,7 +18,7 @@ payload
   },
   "to":"token"
 }
-
+result http://www.vancura.cz/programing/Android/Demo/FirebaseCloudMessaging/device-2021-02-03-220502.png
 
 b] from end-device to server
 
