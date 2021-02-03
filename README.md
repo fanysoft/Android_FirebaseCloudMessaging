@@ -6,7 +6,7 @@ a] from server do end-device
 
 to test it your can use PostMan scripts located at https://github.com/ganny26/firebase-notification-postman-collection
 payload
-- header - add key "Authorization", value "key=**YOUR SERVER KEY--"
+- header - add key "Authorization", value "key=**YOUR SERVER KEY**"
 - body
 {
   "priority":"HIGH",
