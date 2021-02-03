@@ -4,7 +4,7 @@ see https://firebase.google.com/docs/cloud-messaging
 
 a] from server do end-device
 
-to test it your can use PostMan scripts located here
+to test it your can use PostMan scripts located at https://github.com/ganny26/firebase-notification-postman-collection
 payload
 - header - add key "Authorization", value "key=**YOUR SERVER KEY--"
 - body
