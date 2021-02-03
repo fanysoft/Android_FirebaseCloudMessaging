@@ -3,6 +3,7 @@ This is Firebase Cloud Messaging demo handling both directions of communitations
 see https://firebase.google.com/docs/cloud-messaging
 
 a] from server do end-device
+
 to test it your can use PostMan scripts located here
 payload
 - header - add key "Authorization", value "key=**YOUR SERVER KEY--"
@@ -18,6 +19,7 @@ payload
   },
   "to":"token"
 }
+
 result http://www.vancura.cz/programing/Android/Demo/FirebaseCloudMessaging/device-2021-02-03-220502.png
 
 b] from end-device to server
