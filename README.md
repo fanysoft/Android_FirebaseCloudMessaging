@@ -20,6 +20,8 @@ payload
   "to":"token"
 }
 
+for PHP implementation see files register.php and push_notification.php added into root of this repo.
+
 result http://www.vancura.cz/programing/Android/Demo/FirebaseCloudMessaging/device-2021-02-03-220502.png
 
 b] from end-device to server
